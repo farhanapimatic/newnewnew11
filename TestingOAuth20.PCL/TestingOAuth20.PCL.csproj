@@ -10,7 +10,7 @@
     <AssemblyName>TestingOAuth20.PCL</AssemblyName>
     <OutputType>Library</OutputType>
     <OutputPath>bin/DEBUG/</OutputPath>
-    <ProjectGuid>{d13531b6-e9fb-40c9-a7c0-af57724f2e93}</ProjectGuid>
+    <ProjectGuid>{7986ae00-7cfa-4ce6-913f-7160abba1760}</ProjectGuid>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
     <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
     <NuGetPackageImportStamp>ee2bb91c</NuGetPackageImportStamp>
